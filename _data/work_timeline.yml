@@ -1,3 +1,14 @@
+- icon: /assets/images/embention.jpg
+  title: Aerospace Engineer
+  company: Embention USA
+  company_url: https://embention.us/
+  date: Feb 2026 – Current
+  location: Los Angeles, CA, USA
+  bullets:
+    - Develop aerodynamic models and autopilot configurations for fixed wing, VTOL, and quadcopter aircraft with XPlane and company software
+    - Integrate external peripherals such as cameras, LiDAR, and sensors into aircraft autopilot systems
+    - Travel to customers to provide on-site support, training, and integration
+    - Provide remote customer support for queries relating to the autopilot hardware or company software
 - icon: /assets/images/astroforge.jpg
   title: Flight Dynamics Engineering Intern
   company: Astroforge

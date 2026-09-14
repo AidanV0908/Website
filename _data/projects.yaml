@@ -1,10 +1,15 @@
+- name: FPV Drone
+  desc: Custom-built FPV drone
+  url: /projects/making-a-drone-pt1/
+  date: Mar 2026 - Present
+  image: assets/images/ud_quad.jpg
 - name: Home Server
   desc: Set up my own Linux home server
   url: /projects/homelab-adventures-1/
-  date: July 2025 - Aug 2025
+  date: July 2025 - Present
   image: /assets/images/homelab_top_off.jpg
-- name: SkyViewer
-  desc: Uses TLE information to display information about LEO satellites. Built with Flask and Python.
-  url: https://www.skyviewer.dev/
+- name: SkyViewer (Deprecated)
+  desc: Uses TLE information to display information about LEO satellites in a webapp built with Flask and Python
+  url: https://github.com/AidanV0908/SkyViewer
   date: Oct 2024 - Dec 2024
   image: /assets/images/skyviewer.jpeg
